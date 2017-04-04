@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<root>
+<command-packages>
+<command-package name="MathBasic" author="VirtualIceShard" version="1.05" path="./libs/cps/MathBasic">
+</command-package></command-packages>
+</root>

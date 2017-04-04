@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<root>
+<commandlist>
+<command cmd="text" function="displayText" maxargs="inf" minargs="1"></command>
+<command cmd="time" function="showTime" maxargs="no" minargs="1"></command>
+<command cmd="clear" function="clearLog" maxargs="no" minargs="1"></command>
+<command cmd="-settings" function="changeSettings" maxargs="7" minargs="1"></command>
+<command cmd="cp" function="iscp" maxargs="inf" minargs="0"></command>
+
+</commandlist>
+</root>

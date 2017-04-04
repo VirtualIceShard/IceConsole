@@ -1,0 +1,78 @@
+#console {
+	position: relative;
+	left: 35%;
+	width: 350px;
+	padding-left: 120px;
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+
+.consoleLog {
+	font-family: "lucida console";
+	position: inherit;
+}
+
+#ISC_line1 {
+	min-height: 18px;
+}
+
+#ISC_line2 {
+	min-height: 18px;
+}
+
+#ISC_line3 {
+	min-height: 18px;
+}
+
+#ISC_line4 {
+	min-height: 18px;
+}
+
+#ISC_line5 {
+	min-height: 18px;
+}
+
+#ISC_line6 {
+	min-height: 18px;
+}
+
+#ISC_line7 {
+	min-height: 18px;
+}
+
+#ISC_line8 {
+	min-height: 18px;
+}
+
+#ISC_line9 {
+	min-height: 18px;
+}
+
+#ISC_line10 {
+	min-height: 18px;
+}
+
+.consoleInput {
+	position: inherit;
+}
+
+.consoleBtn {
+	position: inherit;
+}
+
+.consoleBtn {
+	border-color: #2980b9;
+	border-radius: 20px;
+	color: #2980b9;
+	border: solid 2px;
+	font-size: 15px;
+	background-color: #ffffff;
+	transition: color 100ms ISC_linear, background-color 300ms linear,
+		border-color 300ms linear;
+	width: 60px;
+}
+
+.consoleBtn:hover {
+	background-color: #2980b9;
+	color: #ffffff;
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<root>
+<command-package name="MathAdvanced" author="VirtualIceShard" version="1.00">
+<dependency name="jQuery" filename="jquery-3.1.1.min.js"></dependency>
+</command-package>
+</root>

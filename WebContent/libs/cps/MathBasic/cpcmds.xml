@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<root>
+<commandlist>
+<command cmd="sum" function="sumNums" maxargs="inf" minargs="2"></command>
+<command cmd="minus" function="minusNums" maxargs="inf" minargs="2"></command>
+<command cmd="multiply" function="timesNums" maxargs="inf" minargs="2"></command>
+<command cmd="div" function="divNums" maxargs="inf" minargs="2"></command>
+<command cmd="newcmd" function="updtest" maxargs="no" minargs="0"></command>
+</commandlist>
+</root>

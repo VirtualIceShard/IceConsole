@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<root>
+<commandlist>
+<command cmd="pow" function="powNum" maxargs="2" minargs="2"></command>
+<command cmd="root" function="getRoot" maxargs="2" minargs="2"></command>
+</commandlist>
+</root>
